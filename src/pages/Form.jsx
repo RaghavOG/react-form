@@ -77,7 +77,7 @@ const ApplicationForm = () => {
 
     return (
       <>
-        <div className='flex justify-center items-center min-h-screen '>
+        <div className='flex justify-center items-center min-h-screen bg-[#8e8eff]'>
         <Card className="w-full max-w-lg mx-auto bg-white shadow-lg rounded-lg p-6">
         <CardHeader>
           <CardTitle className="text-2xl font-bold text-center text-black">Application Form</CardTitle>
